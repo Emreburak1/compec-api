@@ -1,0 +1,7 @@
+org: compecdev
+app: compec-api
+component: express
+name: express-starter
+
+inputs:
+  src: ./
