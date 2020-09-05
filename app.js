@@ -30,4 +30,5 @@ app.get("/gallery", (req, res) => {
 	};
 	contentfulGalleryRequest();
 });
+
 module.exports = app;
