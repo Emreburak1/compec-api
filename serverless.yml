@@ -1,5 +1,5 @@
 org: compecdev
-app: compec-api
+app: compec-api-2
 component: express
 name: express-starter
 
